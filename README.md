@@ -42,12 +42,17 @@
 
 # 🚌 진행 중인 공고
 
+- __<a href="https://www.notion.so/VROONG-5c5458e75f9142f8b37272d7d146dffc" target="_blank">커머스 React.js 웹 프론트엔드 개발자(신입)</a>__
+  - 포지션 : 프론트엔드
+  - 기간 : 수시
 
+- __<a href="https://www.notion.so/VROONG-5c5458e75f9142f8b37272d7d146dffc" target="_blank">메쉬코리아(부릉) 채용</a>__
+  - 포지션 : 전체
+  - 기간 : 수시
 
-
-
-
-
+- __<a href="https://lunit.recruiter.co.kr/app/jobnotice/list" target="_blank">루닛 채용</a>__
+  - 포지션 : 전체
+  - 기간 : 수시
 
 
 
