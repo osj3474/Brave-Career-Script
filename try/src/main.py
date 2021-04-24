@@ -11,5 +11,3 @@ length = len(content_lst)
 for i in range(length):
     content_cleaned = tabulate(content_lst[i], tablefmt="pipe", headers="keys")
     update_md_file(input_md_file, keyword_lst[i], content_cleaned)
-
-print(content_lst[2])
