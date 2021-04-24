@@ -4,12 +4,12 @@ from datetime import datetime as dt
 from datetime import timedelta
 
 def str2date(date_str):
-    return dt.strptime(str(date_str), "%Y년 %m월 %d일").date()
+    return dt.strptime(str(date_str), "%Y-%m-%d").date()
 
 def split_recruit(input):
     today = date.today()
     df = pd.read_csv(input, encoding="CP949")
-    df['마감일']=df['마감일'].map('2021년 {}'.format, na_action = 'ignore')
+    # df['마감일']=df['마감일'].map('2021년 {}'.format, na_action = 'ignore')
     df['마감일']=df['마감일'].map(str2date, na_action = 'ignore')
 
     # ongoing_lst : 진행중인 공고
