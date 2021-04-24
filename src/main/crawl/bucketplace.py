@@ -26,14 +26,38 @@ for html in html_lst:
 # potision : div
 # period : '수시'
 position_lst = list()
+recruit_lst = list()
 for u in url_lst:
     recruit_url = default_url + u
+    recruit_lst.append(recruit_url)
     soup = findByUrl(recruit_url)
     position = soup.find_all("div", {"class":"position-content__head__name"})
     position = position[0].text
     position_lst.append(position)
     print(position)
 
+length = len(position_lst)
+with open('../../../test.md', 'r') as f:
+    new_file = list()
+    while True:
+        line = f.readline()
+        if not line: break
+        if "# 🚌 진행 중인 공고" == line.strip():
+            for i in range(length):
+                line = line+("""
+- __<a href="{}" target='_blank'>{}</a>__
+
+  - 포지션 : {}
+
+  - 기간 : 수시
+
+
+
+""".format(recruit_lst[i], position_lst[i], position_lst[i]+" 채용"))
+        new_file.append(line)
+
+with open('./now.md', 'w') as doc:
+    doc.writelines(new_file)
 
 # Tips) 하위 클래스 잡을때
 # html_lst = soup.select("div.recruit-page__job-list__list__wrap > a.recruit-page__job-list__list__wrap__item")
