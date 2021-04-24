@@ -37,7 +37,7 @@ for u in url_lst:
     print(position)
 
 length = len(position_lst)
-with open('../../../README.md.md', 'r') as f:
+with open('../../../README.md', 'r') as f:
     new_file = list()
     while True:
         line = f.readline()
@@ -56,7 +56,7 @@ with open('../../../README.md.md', 'r') as f:
 """.format(recruit_lst[i], position_lst[i], position_lst[i]+" 채용"))
         new_file.append(line)
 
-with open('../../../README.md.md', 'w') as doc:
+with open('../../../README.md', 'w') as doc:
     doc.writelines(new_file)
 
 # Tips) 하위 클래스 잡을때
