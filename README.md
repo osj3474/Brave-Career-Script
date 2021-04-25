@@ -14,309 +14,96 @@
 
 간단하게라도 자동으로 정리되는 서비스가 완성이 되면, 카톡방원 분들과 함께 해당 서비스를 운영해보고자 합니다.
 
-
-
-
-
-<br /><br /><br />
-
 <br /><br /><br />
 
 # ‼️ 마감 임박 공고
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br /><br /><br />
-
+|    | 공고명                                   | 링크                                                                                                            | 마감일        |
+|---:|:--------------------------------------|:--------------------------------------------------------------------------------------------------------------|:-----------|
+|  0 | 한국전력공사 1차연구직채용 석박사 모집                 | http://recruit.kepco.co.kr/                                                                                   | 2021-04-26 |
+|  1 | 2021년 상반기 IBK기업은행 신입행원 채용공고           | http://ibk.incruit.com/hire/viewhire.asp?projectid=106                                                        | 2021-04-26 |
+|  2 | 콘텐츠웨이브(SK 계열사) 빅데이터개발자, 데이터엔지니어 신입 채용 | https://www.jobkorea.co.kr/Recruit/GI_Read/34447051?Oem_Code=C1&PageGbn=ST                                    | 2021-04-26 |
+|  3 | 다우기술 상반기공채 신입, 경력 채용                  | https://recruit.daou.co.kr/                                                                                   | 2021-04-26 |
+|  4 | 서울형 청년인턴 직무캠프 인턴십 참여자 모집              | https://job.seoul.go.kr/www/custmr_cntr/ntce/WwwNotice.do?method=getWwwNotice&noticeCmmnSeNo=1&bbscttSn=13627 | 2021-04-26 |
+|  5 | 국민연금공단 채용                             | https://nps.saramin.co.kr/service/nps/2046/applicant/apply/index.asp                                          | 2021-04-27 |
+|  6 | MBC 정보콘텐츠부 정보보호팀 IT인프라 기획/관리 담당 모집    | https://recruit.mbc.co.kr:1004/apply_site/recruit/view                                                        | 2021-04-27 |<br /><br /><br />
 <br /><br /><br />
 
 # 🚌 진행 중인 공고
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-12-22-software-engineer" target='_blank'>Platform Software Engineer	</a>__
-
-  - 포지션 : Platform Software Engineer	 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-10-16-데브옵스-엔지니어" target='_blank'>DevOps Engineer</a>__
-
-  - 포지션 : DevOps Engineer 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-11-02-물류배송-백엔드-개발자" target='_blank'>물류배송 Backend Developer  </a>__
-
-  - 포지션 : 물류배송 Backend Developer   채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-07-31-커머스팀-백엔드-개발자" target='_blank'>커머스 Backend Developer</a>__
-
-  - 포지션 : 커머스 Backend Developer 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-07-31-서비스팀-시니어-백엔드-개발자" target='_blank'>콘텐츠 Backend Developer </a>__
-
-  - 포지션 : 콘텐츠 Backend Developer  채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-02-09-시공서비스-backend-developer" target='_blank'>O2O 서비스 Backend Developer</a>__
-
-  - 포지션 : O2O 서비스 Backend Developer 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-06-12-backend-developer-산업기능요원" target='_blank'>Backend Developer (산업기능요원)</a>__
-
-  - 포지션 : Backend Developer (산업기능요원) 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-04-19-backend-developer-채용연계형-인턴" target='_blank'>Backend Developer (채용연계형 인턴)</a>__
-
-  - 포지션 : Backend Developer (채용연계형 인턴) 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-07-02-data-engineer-scientist-leader" target='_blank'>Data Lead</a>__
-
-  - 포지션 : Data Lead 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-08-28-sr-data-engineer" target='_blank'>Sr. Data Engineer</a>__
-
-  - 포지션 : Sr. Data Engineer 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-09-01-product-owner-discovery-search" target='_blank'>Product Owner (추천&검색)</a>__
-
-  - 포지션 : Product Owner (추천&검색) 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-01-29-시공서비스-frontend-developer" target='_blank'>O2O 서비스 Web Frontend Developer </a>__
-
-  - 포지션 : O2O 서비스 Web Frontend Developer  채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-01-29-콘텐츠-frontend-developer" target='_blank'>콘텐츠 Web Frontend Developer </a>__
-
-  - 포지션 : 콘텐츠 Web Frontend Developer  채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-04-09-platform-web-frontend-developer" target='_blank'>Platform Web Frontend Developer</a>__
-
-  - 포지션 : Platform Web Frontend Developer 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-04-16-커머스-web-frontend-developer" target='_blank'>커머스 Web Frontend Developer </a>__
-
-  - 포지션 : 커머스 Web Frontend Developer  채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-01-29-커머스-android-developer" target='_blank'>커머스 Android Developer </a>__
-
-  - 포지션 : 커머스 Android Developer  채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-01-29-콘텐츠-android-developer" target='_blank'>콘텐츠 Android Developer</a>__
-
-  - 포지션 : 콘텐츠 Android Developer 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-04-09-물류배송-android-developer" target='_blank'>물류배송 Android Developer</a>__
-
-  - 포지션 : 물류배송 Android Developer 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-07-22-ios-개발자" target='_blank'>커머스 iOS Developer</a>__
-
-  - 포지션 : 커머스 iOS Developer 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-01-29-콘텐츠-ios-developer" target='_blank'>콘텐츠 iOS Developer</a>__
-
-  - 포지션 : 콘텐츠 iOS Developer 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-09-02-security-engineer-기술보안" target='_blank'>Security Engineer (기술보안)	</a>__
-
-  - 포지션 : Security Engineer (기술보안)	 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-04-19-개인정보보호-및-보안감사-담당자" target='_blank'>개인정보보호 및 보안감사 담당자	</a>__
-
-  - 포지션 : 개인정보보호 및 보안감사 담당자	 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-01-29-site-reliable-engineer" target='_blank'>Site Reliability Engineer (SRE)</a>__
-
-  - 포지션 : Site Reliability Engineer (SRE) 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2021-01-29-dba" target='_blank'>DBA</a>__
-
-  - 포지션 : DBA 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.bucketplace.co.kr/recruit/2020-07-22-qa-담당자" target='_blank'>QA 담당자</a>__
-
-  - 포지션 : QA 담당자 채용
-
-  - 기간 : 수시
-
-
-
-
-- __<a href="https://www.notion.so/VROONG-5c5458e75f9142f8b37272d7d146dffc" target="_blank">커머스 React.js 웹 프론트엔드 개발자(신입)</a>__
-  - 포지션 : 프론트엔드
-  - 기간 : 수시
-
-- __<a href="https://www.notion.so/VROONG-5c5458e75f9142f8b37272d7d146dffc" target="_blank">메쉬코리아(부릉) 채용</a>__
-  - 포지션 : 전체
-  - 기간 : 수시
-
-- __<a href="https://lunit.recruiter.co.kr/app/jobnotice/list" target="_blank">루닛 채용</a>__
-  - 포지션 : 전체
-  - 기간 : 수시
-
-
-
+|    | 공고명                                                | 링크                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 마감일        |
+|---:|:---------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
+|  0 | 한국전력공사 상반기 대졸채용 ICT                                | http://recruit.kepco.co.kr/                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2021-04-29 |
+|  1 | 카엔 [보안] 취약점 진단 인턴 영입                               | https://careers.kakaoenterprise.com/s/DHWXpR                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2021-04-30 |
+|  2 | 11번가 데이터 분석 서비스 개발 분야 모집                           | https://careers.11stcorp.com/jobs/detail/30003400                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2021-04-30 |
+|  3 | 금융결제원 전산직 채용                                       | https://kftc.career.co.kr/jobs/jobs_view.asp?ID=1001                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2021-04-30 |
+|  4 | 네이버웹툰 하계인턴십 채용연계형                                  | https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005728&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=                                                                                                                                                                                                                                                                                                                                                                      | 2021-04-30 |
+|  5 | 네이버랩스 [Platform Engineering] Server Engineer 채용    | https://recruit.navercorp.com/naver/job/detail/developer?annoId=20002849&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=                                                                                                                                                                                                                                                                                                                                                                      | 2021-04-30 |
+|  6 | 2021 공공 빅데이터 분석 청년인재 양성사업 및 공공빅데이터 청년인턴십 참가자 모집    | http://www.dataintern.or.kr/                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2021-04-30 |
+|  7 | 키움에셋플래너 IT팀 신입(정규직) 및 프리랜서 모집                      | https://m.jobkorea.co.kr/Recruit/GI_Read/34449180?view_type=01                                                                                                                                                                                                                                                                                                                                                                                                                                      | 2021-04-30 |
+|  8 | 네이버랩스 [Platform Engineering] Front-end Engineer 채용 | https://recruit.navercorp.com/naver/job/detail/developer?annoId=20003277&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=                                                                                                                                                                                                                                                                                                                                                                      | 2021-04-30 |
+|  9 | 메쉬코리아(부릉) 부문별 신입/경력 모집                             | https://www.notion.so/VROONG-5c5458e75f9142f8b37272d7d146dffc                                                                                                                                                                                                                                                                                                                                                                                                                                       | 2021-04-30 |
+| 10 | 현대카드 [Data Science실] Data Science팀 경력무관채용          | https://www.careerhyundai.com:1003/_service/hyundaicard/apply_site/apply/recruit_default.asp?recruit_idx=1016&view_type=                                                                                                                                                                                                                                                                                                                                                                            | 2021-04-30 |
+| 11 | 게임빌컴투스 상반기 경력직1년이상 세자리수 채용                         | http://gamevilcom2us-recruit.com/                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2021-04-30 |
+| 12 | 미래에셋자산운용 it본부 인턴 , 경력채용                            | https://recruit.miraeasset.com:1006/apply_site/recruit/view                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2021-05-02 |
+| 13 | 나비스오토모티브시스템즈 [한국] SW개발 신입/경력 채용_2021년6월입사          | https://navis-ams.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=25490                                                                                                                                                                                                                                                                                                                                                                                                          | 2021-05-02 |
+| 14 | [DB하이텍] IT(시스템개발) 신입사원 모집                          | https://dbgroup.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54379                                                                                                                                                                                                                                                                                                                                                                                                            | 2021-05-02 |
+| 15 | 2021년 상반기 롯데칠성 신입사원 채용 일반전형                        | https://recruit.lotte.co.kr/apply/announcement/detail/20182890?compcd=10002                                                                                                                                                                                                                                                                                                                                                                                                                         | 2021-05-02 |
+|    | 데이터분석 (롯데그룹 중복가능)                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |            |
+| 16 | 인터파크 정규직 전환형 인턴채용                                  | https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=47201                                                                                                                                                                                                                                                                                                                                                                                                          | 2021-05-02 |
+| 17 | 카카오인턴 Service & Biz developers 등                   | https://careers.kakao.com/2021-intern                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2021-05-03 |
+| 18 | 카카오 인턴십 채용                                         | https://programmers.co.kr/competitions/1142/2021-kakao-internship                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2021-05-03 |
+| 19 | Carrot손해보험 프론트엔드 개발자 채용(인턴)                        | https://carrotins.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54415                                                                                                                                                                                                                                                                                                                                                                                                          | 2021-05-04 |
+| 20 | Carrot손해보험 모바일 앱(IOS) 개발 담당자 채용(인턴)                | https://carrotins.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54410                                                                                                                                                                                                                                                                                                                                                                                                          | 2021-05-04 |
+| 21 | Carrot손해보험 자동차보험IT 담당자 채용(인턴)                      | https://carrotins.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54407                                                                                                                                                                                                                                                                                                                                                                                                          | 2021-05-04 |
+| 22 | 우아한테크캠프 4기 모집 (풀스택)                                | https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html                                                                                                                                                                                                                                                                                                                                                                                                                               | 2021-05-06 |
+| 23 | 엔씨소프트 여름인턴 모집                                      | https://www.ncruiting.com/m/index.html                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2021-05-06 |
+| 24 | 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램             | https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers                                                                                                                                                                                                                                                                                                                                                 | 2021-05-07 |
+| 25 | 2021년 상반기 캐논코리아 신입사원 채용                            | https://recruit.lotte.co.kr/apply/announcement/detail/20186462?compcd=?id=bookmark10017                                                                                                                                                                                                                                                                                                                                                                                                             | 2021-05-07 |
+| 26 | 오피지지 2021 신입/경력 전직군 공개채용                           | https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40051722                                                                                                                                                                                                                                                                                                                                                                                                                              | 2021-05-07 |
+| 27 | 크래프톤 4/26 대규모 채용 , 신입공채                            | https://krafton.recruiter.co.kr/app/jobnotice/list                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2021-05-09 |
+| 28 | 동원그룹 인턴십채용                                         | https://dongwon2021.com/                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2021-05-10 |
+| 29 | 한국투자증권 IT, 디지털 직무 인턴 모집                            | https://recruit.truefriend.com/announcementView?_ev=JAdao%2BsAmbkPsTjLHSd0fNLyoglNFVmllrGz3YVNtpw0ZiYd47nvSFwckc5wbLkPi2AZPxDQjg4iTSkeVi4xN7c%2FjoA2U%2Be63QTgW%2BB8Tk9ywatLwUnZjyA%2BdZ%2FVoAkqH%2FH1wsU7%2FqLCXpeBIHi%2BUnnROjQYmgyw9dnkftKDuY62fsng%2F%2FIBHIDP2Q8j8Ac1fGhlmwsiuHhvC8e4isbNhdSPQk4gbzqC4%2FNckT3hExjcgjTYxvy47hmSlEAyXhXa2EF65wBpVETLmGZILItpMWm13iMiqcGQqmwVnWJo815jWyCVrCx5HQYqvjuWaJxut%2F8iXbholaofH%2B3H8X%2B95Q%3D%3D&_ec=uwj2LydYDiZrPJrAUeiSzYA%2BrCsjJwqh6ZoYqfVVdoo%3D | 2021-05-12 |
+| 30 | 국가정보원 정기공채                                         | https://career.nis.go.kr:4017/info/notice/view.html?noticeNum=2287                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2021-05-13 |
+| 31 | F&F [신입] 디지털본부 경영정보팀 웹 개발 인턴 채용                    | https://fnf.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55204                                                                                                                                                                                                                                                                                                                                                                                                                | 2021-05-16 |
+| 32 | 삼일회계법인 Specialist 공채                               | https://www.pwc.com/kr/ko/career/2021-specialist.html                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2021-05-19 |
+| 33 | (주)한진 플랫폼(웹/앱) 운영·관리 채용                            | https://www.hanjin.co.kr/kor/CMS/RecruitMgr/view.do?mCode=MN052&recruit_seq=18                                                                                                                                                                                                                                                                                                                                                                                                                      | 2021-05-22 |<br /><br /><br />
 <br /><br /><br />
 
+# 💫 마감된 공고
+|    | 공고명                      | 링크                                                                                                                             | 마감일        |
+|---:|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------|:-----------|
+|  0 | 교보생명보험 상반기 신입사원 채용       | https://career.kyobo.co.kr/                                                                                                    | 2021-04-21 |
+|  1 | 한국토지신탁 2021년 계약직 인턴 모집공고 | https://recruit.koreit.co.kr/Recruit/CareersView?Seq=20322                                                                     | 2021-04-18 |
+|  2 | 삼성전자 CEIM 부문 SW분야 경력모집   | http://apply.samsung.co.kr/rec/apply/ComResumeServlet?cmd=pstMain                                                              | 2021-03-22 |
+|  3 | 네이버 상반기 신입 공채 기술 직군      | https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005623&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd= | 2021-04-12 |
+|  4 | 2021 디지털/ICT 수시채용        | https://shinhan.recruiter.co.kr/app/jobnotice/list                                                                             | 2021-04-18 |
+|  5 | 대림 신입사원 모집               | https://daelim-2021.com/                                                                                                       | 2021-04-20 |
+|  6 | 한국리서치 웹프로그래머 신입, 경력채용    | https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=40009484&view_type=etc                                                     | 2021-04-19 |
+|  7 | 이화여대 전산 신입채용             | http://eureka.ewha.ac.kr/eureka/ea/html/ea02/public3/invite.html                                                               | 2021-04-16 |
+|  8 | 한국도자재단 신입직원 채용공고         | https://kocef.saramin.co.kr/service/kocef/2023/applicant/apply/recruit_default.asp                                             | 2021-04-23 |
+|  9 | 경기주택도시공사 신입직원공고          | https://gh.saramin.co.kr/service/gh/2000/applicant/apply/recruit_default.asp                                                   | 2021-04-23 |
+| 10 | 경기아트센터 직원채용              | https://ggac.saramin.co.kr/service/ggac/2022/applicant/apply/recruit_default.asp                                               | 2021-04-23 |
+| 11 | 경기신용보증재단 신입채용            | https://gcgf1.saramin.co.kr/service/gcgf1/2006/applicant/apply/recruit_default.asp                                             | 2021-04-23 |
+| 12 | 경기도일자리재단 채용              | https://gjf.saramin.co.kr/service/gjf/2002/applicant/apply/recruit_default.asp                                                 | 2021-04-23 |
+| 13 | 경기관광공사 채용                | https://gto.saramin.co.kr/service/gto/2017/applicant/apply/recruit_default.asp                                                 | 2021-04-23 |<br /><br /><br />
 <br /><br /><br />
 
-# 📡 진행 예정 공고
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br />
-<br />
+# 📡 수시 채용 공고
+|    | 공고명                                                                  | 링크                                                                                                                                                                                               |   마감일 |
+|---:|:---------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------:|
+|  0 | 구글 SW 채용                                                             | https://careers.google.com/jobs/results/95905561419096774-software-engineer-university-graduate/?distance=50&hl=en_US&jlo=en_US&location=Seoul,%20South%20Korea&q=&skills=Computer%20Programming |   nan |
+|  1 | 2021 LINE AD Platform 채용 연계형 인턴 (Server / Client / Machine Learning) | https://careers.linecorp.com/ko/jobs/418                                                                                                                                                         |   nan |
+|  2 | [아그레아블] 프론트엔드 개발자 채용                                                 | https://www.wanted.co.kr/wd/36202?referer_id=6596                                                                                                                                                |   nan |
+|  3 | Lunit 채용                                                             | https://lunit.recruiter.co.kr/                                                                                                                                                                   |   nan |
+|  4 | 이스트소프트 원터치 개발자 채용                                                    | https://www.notion.so/abbffca46bc6434eb08ca3c3b2bce948                                                                                                                                           |   nan |
+|  5 | 아그레아블 프론트엔드(경력직) 채용                                                  | https://www.wanted.co.kr/wd/58035                                                                                                                                                                |   nan |
+|  6 | 아그레아블 프론트엔드(신입) 채용                                                   | https://www.wanted.co.kr/wd/36202?referer_id=6596                                                                                                                                                |   nan |
+|  7 | 지미디어 채용                                                              | https://www.jobkorea.co.kr/Recruit/GI_Read/34464162?Oem_Code=1                                                                                                                                   |   nan |
+|  8 | 퍼블리 프론트엔드 엔지니어 신입채용                                                  | https://www.catch.co.kr/NCS/RecruitInfoDetails/175399                                                                                                                                            |   nan |
+|  9 | 스태츠칩코리아 채용                                                           | https://jcetglobal.jobagent.co.kr/                                                                                                                                                               |   nan |
+| 10 | 네오플 신규프로젝트 Overkill 신입/경력수시채용                                        | https://career.nexon.com/user/recruit/notice/noticeList?joinCorp=NO                                                                                                                              |   nan |
+| 11 | bucketplace- 오늘의집 백엔드 개발자 인턴 채용                                      | https://www.bucketplace.co.kr/recruit/2021-04-19-backend-developer-%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95-%EC%9D%B8%ED%84%B4/                                                             |   nan |
+| 12 | bucketplace- 오늘의집 소프트웨어 엔지니어 인턴 채용                                   | https://www.bucketplace.co.kr/recruit/2021-04-23-software-engineer-%EC%9D%B8%ED%84%B4-6%EA%B0%9C%EC%9B%94/                                                                                       |   nan |<br /><br /><br />
+<br /><br /><br />
 
 <div align=center>
 <hr />
