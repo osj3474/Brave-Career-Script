@@ -18,7 +18,7 @@
 <br /><br /><br />
 
 <div align=center>
-  <h3> Today : 04월 25일 (일) 🔥</h3>
+  <h2> Today : 04월 25일 (일) 🔥</h2>
 </div>
 
 <br />
