@@ -22,12 +22,12 @@ def split_recruit(input):
     # timeclose_lst : 마감임박 공고
     # finished_lst : 마감된 공고
     # always_lst : 수시채용 공고
-    timeclose_lst = df[(df['마감일'] > today) & (df['마감일'] < today+timedelta(days= 3))].sort_values(by=['마감일']).reset_index(drop=True)
+    timeclose_lst = df[(df['마감일'] >= today) & (df['마감일'] <= today+timedelta(days= 3))].sort_values(by=['마감일']).reset_index(drop=True)
     ongoing_lst = df.loc[df['마감일'] > today+timedelta(days= 3)].sort_values(by=['마감일']).reset_index(drop=True)
-    finished_lst = df.loc[(df['마감일'] < today) & (df['마감일'] < today+timedelta(days= 3))].sort_values(by=['마감일'], ascending=False).reset_index(drop=True)
+    finished_lst = df.loc[(df['마감일'] < today) & (df['마감일'] < today-timedelta(days= 3))].sort_values(by=['마감일'], ascending=False).reset_index(drop=True)
     finished_lst['공고'] = finished_lst['공고'].map('~~{}~~'.format)
     always_lst = df.loc[df['마감일'].isnull()].reset_index(drop=True)
-    always_lst['마감일'] = always_lst['마감일'].fillna("수시(체용시 마감)")
+    always_lst['마감일'] = always_lst['마감일'].fillna("수시(채용시 마감)")
 
 
     return timeclose_lst, ongoing_lst, finished_lst, always_lst
