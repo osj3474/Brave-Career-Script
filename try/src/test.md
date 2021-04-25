@@ -1,7 +1,1 @@
-<style>
-mark{
-    color:red;
-}
-</style>
-<mark>what is DataBase</mark>
-
+<a href="www.naver.com" target="_blank"> NAVER </a>

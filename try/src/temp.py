@@ -1,11 +1,11 @@
-from read_csv import split_recruit
-from tabulate import tabulate
+import pandas as pd
 
-input_md_file = 'test.md'
-input_csv_file = 'sample.csv'
-content_lst = split_recruit(input_csv_file)
-ongoing = content_lst[0]
-ongoing = ongoing.sort_values(by=['마감일'])
-content = tabulate(ongoing, tablefmt="pipe", headers="keys")
+df = pd.read_csv('sample.csv', encoding="CP949")
 
-print(content)
+# df['마감일']=df['마감일'].map('2021년 {}'.format, na_action = 'ignore')
+# df['new']=df['공고명'].map("<a href='' target='_blank'> {} </a>".format, na_action = 'ignore')
+df['공고']=df.apply(lambda row : "<a href={} target='_blank'> {} </a>".format(row['링크'], row['공고명']), axis=1)
+del df['링크']
+del df['공고명']
+df = df[['공고', '마감일']]
+print(df)
