@@ -1,5 +1,6 @@
 from markdown import update_md_file
 from read_csv import split_recruit
+from updateDate import updateDate
 from tabulate import tabulate
 
 input_md_file = '../../README.md'
@@ -11,3 +12,4 @@ length = len(content_lst)
 for i in range(length):
     content_cleaned = tabulate(content_lst[i], tablefmt="pipe", headers="keys")
     update_md_file(input_md_file, keyword_lst[i], content_cleaned)
+updateDate(input_md_file)

@@ -8,11 +8,11 @@ def update_md_file(input, keyword, content):
             if keyword==line.strip():
                 new_file.append(line)
                 new_file.append(content)
+                new_file.append('\n')
                 while True:
                     line = f.readline()
                     if "<br /><br /><br />" == line.strip():
                         print('pass')
-                        new_file.append("<br /><br /><br />")
                         new_file.append('\n')
                         break
             new_file.append(line)
