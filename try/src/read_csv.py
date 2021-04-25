@@ -26,6 +26,8 @@ def split_recruit(input):
     ongoing_lst = df.loc[df['마감일'] > today+timedelta(days= 3)].sort_values(by=['마감일']).reset_index(drop=True)
     finished_lst = df.loc[(df['마감일'] < today) & (df['마감일'] < today+timedelta(days= 3))].reset_index(drop=True)
     always_lst = df.loc[df['마감일'].isnull()].reset_index(drop=True)
+    always_lst['마감일'] = always_lst['마감일'].fillna("수시(체용시 마감)")
+
 
     return timeclose_lst, ongoing_lst, finished_lst, always_lst
 
