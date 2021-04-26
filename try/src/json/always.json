@@ -1,54 +1,67 @@
 {
     "0": {
-        "공고": "<a href='https://careers.google.com/jobs/results/95905561419096774-software-engineer-university-graduate/?distance=50&hl=en_US&jlo=en_US&location=Seoul,%20South%20Korea&q=&skills=Computer%20Programming' target='_blank'> 구글 SW 채용 </a>",
+        "공고명": "구글 SW 채용",
+        "링크": "https://careers.google.com/jobs/results/95905561419096774-software-engineer-university-graduate/?distance=50&hl=en_US&jlo=en_US&location=Seoul,%20South%20Korea&q=&skills=Computer%20Programming",
         "마감일": "수시(채용시 마감)"
     },
     "1": {
-        "공고": "<a href='https://careers.linecorp.com/ko/jobs/418' target='_blank'> 2021 LINE AD Platform 채용 연계형 인턴 (Server / Client / Machine Learning) </a>",
+        "공고명": "2021 LINE AD Platform 채용 연계형 인턴 (Server / Client / Machine Learning)",
+        "링크": "https://careers.linecorp.com/ko/jobs/418",
         "마감일": "수시(채용시 마감)"
     },
     "2": {
-        "공고": "<a href='https://www.wanted.co.kr/wd/36202?referer_id=6596' target='_blank'> [아그레아블] 프론트엔드 개발자 채용 </a>",
+        "공고명": "[아그레아블] 프론트엔드 개발자 채용",
+        "링크": "https://www.wanted.co.kr/wd/36202?referer_id=6596",
         "마감일": "수시(채용시 마감)"
     },
     "3": {
-        "공고": "<a href='https://lunit.recruiter.co.kr/' target='_blank'> Lunit 채용 </a>",
+        "공고명": "Lunit 채용",
+        "링크": "https://lunit.recruiter.co.kr/",
         "마감일": "수시(채용시 마감)"
     },
     "4": {
-        "공고": "<a href='https://www.notion.so/abbffca46bc6434eb08ca3c3b2bce948' target='_blank'> 이스트소프트 원터치 개발자 채용 </a>",
+        "공고명": "이스트소프트 원터치 개발자 채용",
+        "링크": "https://www.notion.so/abbffca46bc6434eb08ca3c3b2bce948",
         "마감일": "수시(채용시 마감)"
     },
     "5": {
-        "공고": "<a href='https://www.wanted.co.kr/wd/58035' target='_blank'> 아그레아블 프론트엔드(경력직) 채용 </a>",
+        "공고명": "아그레아블 프론트엔드(경력직) 채용",
+        "링크": "https://www.wanted.co.kr/wd/58035",
         "마감일": "수시(채용시 마감)"
     },
     "6": {
-        "공고": "<a href='https://www.wanted.co.kr/wd/36202?referer_id=6596' target='_blank'> 아그레아블 프론트엔드(신입) 채용 </a>",
+        "공고명": "아그레아블 프론트엔드(신입) 채용",
+        "링크": "https://www.wanted.co.kr/wd/36202?referer_id=6596",
         "마감일": "수시(채용시 마감)"
     },
     "7": {
-        "공고": "<a href='https://www.jobkorea.co.kr/Recruit/GI_Read/34464162?Oem_Code=1' target='_blank'> 지미디어 채용 </a>",
+        "공고명": "지미디어 채용",
+        "링크": "https://www.jobkorea.co.kr/Recruit/GI_Read/34464162?Oem_Code=1",
         "마감일": "수시(채용시 마감)"
     },
     "8": {
-        "공고": "<a href='https://www.catch.co.kr/NCS/RecruitInfoDetails/175399' target='_blank'> 퍼블리 프론트엔드 엔지니어 신입채용 </a>",
+        "공고명": "퍼블리 프론트엔드 엔지니어 신입채용",
+        "링크": "https://www.catch.co.kr/NCS/RecruitInfoDetails/175399",
         "마감일": "수시(채용시 마감)"
     },
     "9": {
-        "공고": "<a href='https://jcetglobal.jobagent.co.kr/' target='_blank'> 스태츠칩코리아 채용 </a>",
+        "공고명": "스태츠칩코리아 채용",
+        "링크": "https://jcetglobal.jobagent.co.kr/",
         "마감일": "수시(채용시 마감)"
     },
     "10": {
-        "공고": "<a href='https://career.nexon.com/user/recruit/notice/noticeList?joinCorp=NO' target='_blank'> 네오플 신규프로젝트 Overkill 신입/경력수시채용 </a>",
+        "공고명": "네오플 신규프로젝트 Overkill 신입/경력수시채용",
+        "링크": "https://career.nexon.com/user/recruit/notice/noticeList?joinCorp=NO",
         "마감일": "수시(채용시 마감)"
     },
     "11": {
-        "공고": "<a href='https://www.bucketplace.co.kr/recruit/2021-04-19-backend-developer-%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95-%EC%9D%B8%ED%84%B4/' target='_blank'> bucketplace- 오늘의집 백엔드 개발자 인턴 채용 </a>",
+        "공고명": "bucketplace- 오늘의집 백엔드 개발자 인턴 채용",
+        "링크": "https://www.bucketplace.co.kr/recruit/2021-04-19-backend-developer-%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95-%EC%9D%B8%ED%84%B4/",
         "마감일": "수시(채용시 마감)"
     },
     "12": {
-        "공고": "<a href='https://www.bucketplace.co.kr/recruit/2021-04-23-software-engineer-%EC%9D%B8%ED%84%B4-6%EA%B0%9C%EC%9B%94/' target='_blank'> bucketplace- 오늘의집 소프트웨어 엔지니어 인턴 채용 </a>",
+        "공고명": "bucketplace- 오늘의집 소프트웨어 엔지니어 인턴 채용",
+        "링크": "https://www.bucketplace.co.kr/recruit/2021-04-23-software-engineer-%EC%9D%B8%ED%84%B4-6%EA%B0%9C%EC%9B%94/",
         "마감일": "수시(채용시 마감)"
     }
 }

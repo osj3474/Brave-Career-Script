@@ -1,106 +1,132 @@
 {
     "0": {
-        "공고": "<a href='https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=47201' target='_blank'> 인터파크 정규직 전환형 인턴채용 </a>",
+        "공고명": "인터파크 정규직 전환형 인턴채용",
+        "링크": "https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=47201",
         "마감일": 1619913600000
     },
     "1": {
-        "공고": "<a href='https://recruit.lotte.co.kr/apply/announcement/detail/20182890?compcd=10002' target='_blank'> 2021년 상반기 롯데칠성 신입사원 채용 일반전형 데이터분석 (롯데그룹 중복가능) </a>",
+        "공고명": "2021년 상반기 롯데칠성 신입사원 채용 일반전형 데이터분석 (롯데그룹 중복가능)",
+        "링크": "https://recruit.lotte.co.kr/apply/announcement/detail/20182890?compcd=10002",
         "마감일": 1619913600000
     },
     "2": {
-        "공고": "<a href='https://recruit.miraeasset.com:1006/apply_site/recruit/view' target='_blank'> 미래에셋자산운용 it본부 인턴 , 경력채용 </a>",
+        "공고명": "미래에셋자산운용 it본부 인턴 , 경력채용",
+        "링크": "https://recruit.miraeasset.com:1006/apply_site/recruit/view",
         "마감일": 1619913600000
     },
     "3": {
-        "공고": "<a href='https://navis-ams.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=25490' target='_blank'> 나비스오토모티브시스템즈 [한국] SW개발 신입/경력 채용_2021년6월입사 </a>",
+        "공고명": "나비스오토모티브시스템즈 [한국] SW개발 신입/경력 채용_2021년6월입사",
+        "링크": "https://navis-ams.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=25490",
         "마감일": 1619913600000
     },
     "4": {
-        "공고": "<a href='https://dbgroup.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54379' target='_blank'> [DB하이텍] IT(시스템개발) 신입사원 모집 </a>",
+        "공고명": "[DB하이텍] IT(시스템개발) 신입사원 모집",
+        "링크": "https://dbgroup.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54379",
         "마감일": 1619913600000
     },
     "5": {
-        "공고": "<a href='https://programmers.co.kr/competitions/1142/2021-kakao-internship' target='_blank'> 카카오 인턴십 채용 </a>",
+        "공고명": "카카오 인턴십 채용",
+        "링크": "https://programmers.co.kr/competitions/1142/2021-kakao-internship",
         "마감일": 1620000000000
     },
     "6": {
-        "공고": "<a href='https://careers.kakao.com/2021-intern' target='_blank'> 카카오인턴 Service & Biz developers 등 </a>",
+        "공고명": "카카오인턴 Service & Biz developers 등",
+        "링크": "https://careers.kakao.com/2021-intern",
         "마감일": 1620000000000
     },
     "7": {
-        "공고": "<a href='https://recruit.kdn.com/recruit/wm/rc/Recruit.do?method=main&toMenuNum=116&step=2&sch_idx=94' target='_blank'> 한전KDN 체험형 청년 인턴 채용 </a>",
+        "공고명": "한전KDN 체험형 청년 인턴 채용",
+        "링크": "https://recruit.kdn.com/recruit/wm/rc/Recruit.do?method=main&toMenuNum=116&step=2&sch_idx=94",
         "마감일": 1620086400000
     },
     "8": {
-        "공고": "<a href='https://carrotins.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54407' target='_blank'> Carrot손해보험 자동차보험IT 담당자 채용(인턴) </a>",
+        "공고명": "Carrot손해보험 자동차보험IT 담당자 채용(인턴)",
+        "링크": "https://carrotins.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54407",
         "마감일": 1620086400000
     },
     "9": {
-        "공고": "<a href='https://carrotins.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54410' target='_blank'> Carrot손해보험 모바일 앱(IOS) 개발 담당자 채용(인턴) </a>",
+        "공고명": "Carrot손해보험 모바일 앱(IOS) 개발 담당자 채용(인턴)",
+        "링크": "https://carrotins.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54410",
         "마감일": 1620086400000
     },
     "10": {
-        "공고": "<a href='https://carrotins.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54415' target='_blank'> Carrot손해보험 프론트엔드 개발자 채용(인턴) </a>",
+        "공고명": "Carrot손해보험 프론트엔드 개발자 채용(인턴)",
+        "링크": "https://carrotins.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54415",
         "마감일": 1620086400000
     },
     "11": {
-        "공고": "<a href='https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=40083975&view_type=search' target='_blank'> 조이시티 상반기 채용연계 인턴 채용 </a>",
+        "공고명": "조이시티 상반기 채용연계 인턴 채용",
+        "링크": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=40083975&view_type=search",
         "마감일": 1620172800000
     },
     "12": {
-        "공고": "<a href='https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html' target='_blank'> 우아한테크캠프 4기 모집 (풀스택) </a>",
+        "공고명": "우아한테크캠프 4기 모집 (풀스택)",
+        "링크": "https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html",
         "마감일": 1620259200000
     },
     "13": {
-        "공고": "<a href='https://www.ncruiting.com/m/index.html' target='_blank'> 엔씨소프트 여름인턴 모집 </a>",
+        "공고명": "엔씨소프트 여름인턴 모집",
+        "링크": "https://www.ncruiting.com/m/index.html",
         "마감일": 1620259200000
     },
     "14": {
-        "공고": "<a href='https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers' target='_blank'> 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 </a>",
+        "공고명": "2021 Summer Coding - 여름방학 스타트업 인턴 프로그램",
+        "링크": "https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers",
         "마감일": 1620345600000
     },
     "15": {
-        "공고": "<a href='https://recruit.lotte.co.kr/apply/announcement/detail/20186462?compcd=?id=bookmark10017' target='_blank'> 2021년 상반기 캐논코리아 신입사원 채용 </a>",
+        "공고명": "2021년 상반기 캐논코리아 신입사원 채용",
+        "링크": "https://recruit.lotte.co.kr/apply/announcement/detail/20186462?compcd=?id=bookmark10017",
         "마감일": 1620345600000
     },
     "16": {
-        "공고": "<a href='https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40051722' target='_blank'> 오피지지 2021 신입/경력 전직군 공개채용 </a>",
+        "공고명": "오피지지 2021 신입/경력 전직군 공개채용",
+        "링크": "https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40051722",
         "마감일": 1620345600000
     },
     "17": {
-        "공고": "<a href='https://krafton.recruiter.co.kr/app/jobnotice/list' target='_blank'> 크래프톤 4/26 대규모 채용 , 신입공채 </a>",
+        "공고명": "크래프톤 4/26 대규모 채용 , 신입공채",
+        "링크": "https://krafton.recruiter.co.kr/app/jobnotice/list",
         "마감일": 1620518400000
     },
     "18": {
-        "공고": "<a href='https://kmtc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55046' target='_blank'> 2021년 고려해운 DT 신입사원 채용 </a>",
+        "공고명": "2021년 고려해운 DT 신입사원 채용",
+        "링크": "https://kmtc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55046",
         "마감일": 1620604800000
     },
     "19": {
-        "공고": "<a href='https://dongwon2021.com/' target='_blank'> 동원그룹 인턴십채용 </a>",
+        "공고명": "동원그룹 인턴십채용",
+        "링크": "https://dongwon2021.com/",
         "마감일": 1620604800000
     },
     "20": {
-        "공고": "<a href='https://recruit.navercorp.com/naver/job/detail/contents?annoId=20005800&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=' target='_blank'> 웍스모바일 인턴 채용 (네이버 면접대상자는 지원 불가, 택1) </a>",
+        "공고명": "웍스모바일 인턴 채용 (네이버 면접대상자는 지원 불가, 택1)",
+        "링크": "https://recruit.navercorp.com/naver/job/detail/contents?annoId=20005800&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=",
         "마감일": 1620604800000
     },
     "21": {
-        "공고": "<a href='https://recruit.truefriend.com/announcementView?_ev=JAdao%2BsAmbkPsTjLHSd0fNLyoglNFVmllrGz3YVNtpw0ZiYd47nvSFwckc5wbLkPi2AZPxDQjg4iTSkeVi4xN7c%2FjoA2U%2Be63QTgW%2BB8Tk9ywatLwUnZjyA%2BdZ%2FVoAkqH%2FH1wsU7%2FqLCXpeBIHi%2BUnnROjQYmgyw9dnkftKDuY62fsng%2F%2FIBHIDP2Q8j8Ac1fGhlmwsiuHhvC8e4isbNhdSPQk4gbzqC4%2FNckT3hExjcgjTYxvy47hmSlEAyXhXa2EF65wBpVETLmGZILItpMWm13iMiqcGQqmwVnWJo815jWyCVrCx5HQYqvjuWaJxut%2F8iXbholaofH%2B3H8X%2B95Q%3D%3D&_ec=uwj2LydYDiZrPJrAUeiSzYA%2BrCsjJwqh6ZoYqfVVdoo%3D' target='_blank'> 한국투자증권 IT, 디지털 직무 인턴 모집 </a>",
+        "공고명": "한국투자증권 IT, 디지털 직무 인턴 모집",
+        "링크": "https://recruit.truefriend.com/announcementView?_ev=JAdao%2BsAmbkPsTjLHSd0fNLyoglNFVmllrGz3YVNtpw0ZiYd47nvSFwckc5wbLkPi2AZPxDQjg4iTSkeVi4xN7c%2FjoA2U%2Be63QTgW%2BB8Tk9ywatLwUnZjyA%2BdZ%2FVoAkqH%2FH1wsU7%2FqLCXpeBIHi%2BUnnROjQYmgyw9dnkftKDuY62fsng%2F%2FIBHIDP2Q8j8Ac1fGhlmwsiuHhvC8e4isbNhdSPQk4gbzqC4%2FNckT3hExjcgjTYxvy47hmSlEAyXhXa2EF65wBpVETLmGZILItpMWm13iMiqcGQqmwVnWJo815jWyCVrCx5HQYqvjuWaJxut%2F8iXbholaofH%2B3H8X%2B95Q%3D%3D&_ec=uwj2LydYDiZrPJrAUeiSzYA%2BrCsjJwqh6ZoYqfVVdoo%3D",
         "마감일": 1620777600000
     },
     "22": {
-        "공고": "<a href='https://career.nis.go.kr:4017/info/notice/view.html?noticeNum=2287' target='_blank'> 국가정보원 정기공채 </a>",
+        "공고명": "국가정보원 정기공채",
+        "링크": "https://career.nis.go.kr:4017/info/notice/view.html?noticeNum=2287",
         "마감일": 1620864000000
     },
     "23": {
-        "공고": "<a href='https://fnf.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55204' target='_blank'> F&F [신입] 디지털본부 경영정보팀 웹 개발 인턴 채용 </a>",
+        "공고명": "F&F [신입] 디지털본부 경영정보팀 웹 개발 인턴 채용",
+        "링크": "https://fnf.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55204",
         "마감일": 1621123200000
     },
     "24": {
-        "공고": "<a href='https://www.pwc.com/kr/ko/career/2021-specialist.html' target='_blank'> 삼일회계법인 Specialist 공채 </a>",
+        "공고명": "삼일회계법인 Specialist 공채",
+        "링크": "https://www.pwc.com/kr/ko/career/2021-specialist.html",
         "마감일": 1621382400000
     },
     "25": {
-        "공고": "<a href='https://www.hanjin.co.kr/kor/CMS/RecruitMgr/view.do?mCode=MN052&recruit_seq=18' target='_blank'> (주)한진 플랫폼(웹/앱) 운영·관리 채용 </a>",
+        "공고명": "(주)한진 플랫폼(웹/앱) 운영·관리 채용",
+        "링크": "https://www.hanjin.co.kr/kor/CMS/RecruitMgr/view.do?mCode=MN052&recruit_seq=18",
         "마감일": 1621641600000
     }
 }
