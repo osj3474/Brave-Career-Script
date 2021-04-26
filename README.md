@@ -1,5 +1,5 @@
 <div align=center>
-  <h1> Brave-Recruit-Script </h1>
+  <h1> Brave-Career-Script </h1>
   <br /><br />
   SW 개발자 취업&이직 공고.
   <br />
@@ -7,12 +7,13 @@
 </div>
 
 
-<br />
 
 <br />
 
+<br />
 
-Brave-Recruit 저장소를 위한 파이썬 스크립트 입니다.
+
+Brave-Career 저장소를 위한 파이썬 스크립트 입니다.
 
 <br />
 
