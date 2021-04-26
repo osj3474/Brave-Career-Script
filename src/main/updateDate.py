@@ -3,7 +3,7 @@ from datetime import date
 from datetime import datetime as dt
 
 def updateDate(input):
-    p = re.compile('\<h2\> Today : \d+월 \d+일 \(\w\) 🔥\<\/h2\>')
+    p = re.compile('\<h2> 최종 업데이트 : \d+월 \d+일 \(\w\) 🔥\<\/h2\>')
 
     week = ['월', '화', '수', '목', '금', '토', '일']
     today = date.today()
