@@ -1,16 +1,15 @@
-# pip3 install pandas
-# pip3 install requests
-# pip3 install bs4
+from markdown import update_md_file
+from read_csv import split_recruit
+from updateDate import updateDate
+from tabulate import tabulate
 
-import pandas as pd
-import requests
-from bs4 import BeautifulSoup as bs
+input_md_file = './README.md'
+input_csv_file = 'db.csv'
+keyword_lst = ['# ‼️ 마감 임박 공고', '# 🚌 진행 중인 공고', '# 💫 마감된 공고', '# 📡 수시 채용 공고']
+content_lst = split_recruit(input_csv_file)
 
-data = pd.read_csv('/Users/sangjin/Desktop/notice.csv')
-data = data.loc[data['Message'].str.contains('http')]
-data_lst = data['Message'].tolist()
-print(data_lst[0])
-result = requests.get(data_lst[0])
-print(result.text)
-soup = bs(result.text, 'html.parser')
-print(soup.find_all("strong", {"class": "tit_jobs"}))
+length = len(content_lst)
+for i in range(length):
+    content_cleaned = tabulate(content_lst[i], tablefmt="pipe", headers="keys")
+    update_md_file(input_md_file, keyword_lst[i], content_cleaned)
+updateDate(input_md_file)
