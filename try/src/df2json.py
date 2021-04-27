@@ -7,6 +7,9 @@ from datetime import timedelta
 def str2date(date_str):
     return dt.strptime(str(date_str), "%Y-%m-%d").date()
 
+# def date2str(date):
+#     return dt.strptime(date, "%Y-%m-%d")
+
 def split_recruit(input):
     today = date.today()
     df = pd.read_csv(input, encoding="CP949")
@@ -28,6 +31,10 @@ def df2json(df):
 if __name__ == "__main__":
     input_csv_file = 'sample.csv'
     content_lst = split_recruit(input_csv_file)
+    
+    # print(content_lst[0]['마감일'].map(date2str))
+    # exit(0)
+
     name_lst = ['timeclose', 'ongoing', 'finished', 'always']
     for i in range(len(content_lst)):
         json_content = df2json(content_lst[i])
