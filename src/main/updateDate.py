@@ -9,7 +9,7 @@ def updateDate(input):
     today = date.today()
     today = today.strftime('%m월 %d일 ')
     day = '({}) 🔥'.format(str(week[dt.today().weekday()]))
-    today = '  <h2> Today : ' + today + day + '</h2>'
+    today = '  <h2> 최종 업데이트 : ' + today + day + '</h2>'
 
     with open(input, 'r') as f:
         new_file = list()
