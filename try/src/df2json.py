@@ -31,7 +31,7 @@ def df2json(df):
 if __name__ == "__main__":
     input_csv_file = 'sample.csv'
     content_lst = split_recruit(input_csv_file)
-    
+
     # print(content_lst[0]['마감일'].map(date2str))
     # exit(0)
 
