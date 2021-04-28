@@ -92,22 +92,30 @@
 <br /><br /><br />
 
 # 💫 마감된 공고
-|    | 공고                                                                                                                                                                                     | 마감일        |
-|---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
-|  0 | ~~<a href='https://kocef.saramin.co.kr/service/kocef/2023/applicant/apply/recruit_default.asp' target='_blank'> 한국도자재단 신입직원 채용공고 </a>~~                                                | 2021-04-23 |
-|  1 | ~~<a href='https://gh.saramin.co.kr/service/gh/2000/applicant/apply/recruit_default.asp' target='_blank'> 경기주택도시공사 신입직원공고 </a>~~                                                       | 2021-04-23 |
-|  2 | ~~<a href='https://ggac.saramin.co.kr/service/ggac/2022/applicant/apply/recruit_default.asp' target='_blank'> 경기아트센터 직원채용 </a>~~                                                       | 2021-04-23 |
-|  3 | ~~<a href='https://gcgf1.saramin.co.kr/service/gcgf1/2006/applicant/apply/recruit_default.asp' target='_blank'> 경기신용보증재단 신입채용 </a>~~                                                   | 2021-04-23 |
-|  4 | ~~<a href='https://gjf.saramin.co.kr/service/gjf/2002/applicant/apply/recruit_default.asp' target='_blank'> 경기도일자리재단 채용 </a>~~                                                         | 2021-04-23 |
-|  5 | ~~<a href='https://gto.saramin.co.kr/service/gto/2017/applicant/apply/recruit_default.asp' target='_blank'> 경기관광공사 채용 </a>~~                                                           | 2021-04-23 |
-|  6 | ~~<a href='https://career.kyobo.co.kr/' target='_blank'> 교보생명보험 상반기 신입사원 채용 </a>~~                                                                                                     | 2021-04-21 |
-|  7 | ~~<a href='https://daelim-2021.com/' target='_blank'> 대림 신입사원 모집 </a>~~                                                                                                                | 2021-04-20 |
-|  8 | ~~<a href='https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=40009484&view_type=etc' target='_blank'> 한국리서치 웹프로그래머 신입, 경력채용 </a>~~                                                   | 2021-04-19 |
-|  9 | ~~<a href='https://recruit.koreit.co.kr/Recruit/CareersView?Seq=20322' target='_blank'> 한국토지신탁 2021년 계약직 인턴 모집공고 </a>~~                                                                | 2021-04-18 |
-| 10 | ~~<a href='https://shinhan.recruiter.co.kr/app/jobnotice/list' target='_blank'> 2021 디지털/ICT 수시채용 </a>~~                                                                               | 2021-04-18 |
-| 11 | ~~<a href='http://eureka.ewha.ac.kr/eureka/ea/html/ea02/public3/invite.html' target='_blank'> 이화여대 전산 신입채용 </a>~~                                                                      | 2021-04-16 |
-| 12 | ~~<a href='https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005623&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=' target='_blank'> 네이버 상반기 신입 공채 기술 직군 </a>~~ | 2021-04-12 |
-| 13 | ~~<a href='http://apply.samsung.co.kr/rec/apply/ComResumeServlet?cmd=pstMain' target='_blank'> 삼성전자 CEIM 부문 SW분야 경력모집 </a>~~                                                           | 2021-03-22 |
+|    | 공고                                                                                                                                                                         | 마감일        |
+|---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
+|  0 | ~~<a href='https://recruit.mbc.co.kr:1004/apply_site/recruit/view' target='_blank'> MBC 정보콘텐츠부 정보보호팀 IT인프라 기획/관리 담당 모집 </a>~~                                              | 2021-04-27 |
+|  1 | ~~<a href='https://nps.saramin.co.kr/service/nps/2046/applicant/apply/index.asp' target='_blank'> 국민연금공단 채용 </a>~~                                                         | 2021-04-27 |
+|  2 | ~~<a href='https://www.jobkorea.co.kr/Recruit/GI_Read/34447051?Oem_Code=C1&PageGbn=ST' target='_blank'> 콘텐츠웨이브(SK 계열사) 빅데이터개발자, 데이터엔지니어 신입 채용 </a>~~                       | 2021-04-26 |
+|  3 | ~~<a href='https://job.seoul.go.kr/www/custmr_cntr/ntce/WwwNotice.do?method=getWwwNotice&noticeCmmnSeNo=1&bbscttSn=13627' target='_blank'> 서울형 청년인턴 직무캠프 인턴십 참여자 모집 </a>~~ | 2021-04-26 |
+|  4 | ~~<a href='https://recruit.daou.co.kr/' target='_blank'> 다우기술 상반기공채 신입, 경력 채용 </a>~~                                                                                       | 2021-04-26 |
+|  5 | ~~<a href='http://recruit.kepco.co.kr/' target='_blank'> 한국전력공사 1차연구직채용 석박사 모집 </a>~~                                                                                      | 2021-04-26 |
+|  6 | ~~<a href='https://careers.linecorp.com/ko/jobs/418' target='_blank'> 2021 LINE AD Platform 채용 연계형 인턴 (Server / Client / Machine Learning) </a>~~                          | 2021-04-26 |
+|  7 | ~~<a href='http://ibk.incruit.com/hire/viewhire.asp?projectid=106' target='_blank'> 2021년 상반기 IBK기업은행 신입행원 채용공고 </a>~~                                                     | 2021-04-26 |
+|  8 | ~~<a href='https://company.gabia.com/recruit/apply/' target='_blank'> 가비아 2021년 상반기 프론트엔드 개발자 채용 </a>~~                                                                    | 2021-04-25 |
+|  9 | ~~<a href='https://kakaoent.recruiter.co.kr/app/jobnotice/list' target='_blank'> 카카오 엔터테인먼트 대규모 채용 </a>~~                                                                  | 2021-04-25 |
+| 10 | ~~<a href='https://kocef.saramin.co.kr/service/kocef/2023/applicant/apply/recruit_default.asp' target='_blank'> 한국도자재단 신입직원 채용공고 </a>~~                                    | 2021-04-23 |
+| 11 | ~~<a href='https://gh.saramin.co.kr/service/gh/2000/applicant/apply/recruit_default.asp' target='_blank'> 경기주택도시공사 신입직원공고 </a>~~                                           | 2021-04-23 |
+| 12 | ~~<a href='https://ggac.saramin.co.kr/service/ggac/2022/applicant/apply/recruit_default.asp' target='_blank'> 경기아트센터 직원채용 </a>~~                                           | 2021-04-23 |
+| 13 | ~~<a href='https://gcgf1.saramin.co.kr/service/gcgf1/2006/applicant/apply/recruit_default.asp' target='_blank'> 경기신용보증재단 신입채용 </a>~~                                       | 2021-04-23 |
+| 14 | ~~<a href='https://gjf.saramin.co.kr/service/gjf/2002/applicant/apply/recruit_default.asp' target='_blank'> 경기도일자리재단 채용 </a>~~                                             | 2021-04-23 |
+| 15 | ~~<a href='https://gto.saramin.co.kr/service/gto/2017/applicant/apply/recruit_default.asp' target='_blank'> 경기관광공사 채용 </a>~~                                               | 2021-04-23 |
+| 16 | ~~<a href='https://career.kyobo.co.kr/' target='_blank'> 교보생명보험 상반기 신입사원 채용 </a>~~                                                                                         | 2021-04-21 |
+| 17 | ~~<a href='https://daelim-2021.com/' target='_blank'> 대림 신입사원 모집 </a>~~                                                                                                    | 2021-04-20 |
+| 18 | ~~<a href='https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=40009484&view_type=etc' target='_blank'> 한국리서치 웹프로그래머 신입, 경력채용 </a>~~                                       | 2021-04-19 |
+| 19 | ~~<a href='https://shinhan.recruiter.co.kr/app/jobnotice/list' target='_blank'> 2021 디지털/ICT 수시채용 </a>~~                                                                   | 2021-04-18 |
+| 20 | ~~<a href='https://recruit.koreit.co.kr/Recruit/CareersView?Seq=20322' target='_blank'> 한국토지신탁 2021년 계약직 인턴 모집공고 </a>~~                                                    | 2021-04-18 |
+| 21 | ~~<a href='http://eureka.ewha.ac.kr/eureka/ea/html/ea02/public3/invite.html' target='_blank'> 이화여대 전산 신입채용 </a>~~                                                          | 2021-04-16 |
 
 <br /><br /><br />
 
